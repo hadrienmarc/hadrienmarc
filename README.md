@@ -3,7 +3,7 @@
 > **Data Scientist & Machine Learning Engineer** focused on the iterative design of reliable ML systems.\
 > Double Master's in **ML & Data Science** (Aalto University) and **Applied Mathematics & Computer Science** (ENSIMAG).
 
-I a passionate about designing and optimizing model architectures, with a focus on inference latency and model compression, bridging theoretical research and production engineering. I have a strong foundation in building end-to-end pipelines and am dedicated to making complex mathematical models accurate, scalable, and maintainable in real-world environments.
+I am passionate about designing and optimizing model architectures, with a focus on inference latency and model compression, bridging theoretical research and production engineering. I have a strong foundation in building end-to-end pipelines and am dedicated to making complex mathematical models accurate, scalable, and maintainable in real-world environments.
 
 ---
 
