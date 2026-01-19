@@ -10,6 +10,6 @@ I am passionate about optimizing inference latency and model compression, bridgi
 ### 🔬 Featured Research: Data-Driven Model Discovery
 **Topic:** [**Robust Interpretable Model for System
 Identification**](https://aaltodoc.aalto.fi/server/api/core/bitstreams/847c71bd-1dbc-4852-aff2-83b684e2b850/content)
-* **Innovation:** I formulated and engineered a novel algorithm to identify nonlinear dynamical systems.
-* **Impact:** I discovered mathematical flaws in a high-impact publication and developed a solution that outperforms the [SINDy](https://www.pnas.org/doi/10.1073/pnas.1517384113) method in noise robustness and network interaction analysis.
-* **Stack:** Python, C++.
+* **Impact:** Discovered mathematical flaws in a high-impact publication.
+* **Innovation:** Formulated and engineered a novel algorithm to identify nonlinear dynamical systems, that outperforms the [SINDy](https://www.pnas.org/doi/10.1073/pnas.1517384113) method in noise robustness and network interaction analysis.
+* **Stack:** Engineered the algorithm from scratch, bridging theoretical derivation with a flexible Python prototype (configurable for CPU or GPU execution) and a high-performance C++ implementation using cluster parallelization to minimize inference latency, reducing runtime from days to minutes for large dynamical systems.
